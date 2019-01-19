@@ -4,7 +4,7 @@
 
 The focus of this app is to practice using the Full Stack we have learnt, (and new technology [react native]) in a large scale app.
 
-The idea of the app is to create a **"stargazing - astronomical"** style app for people to visit and check **WEATHER (with visibility)**, **LOOKOUT reccomendations (x and y coordinates)**, **what constellations they can see in wellington**.
+The idea of the app is to create a **"stargazing - astronomical"** style app for people to visit and check **WEATHER (with visibility)**, **LOOKOUT recommendations (x and y coordinates)**, **what constellations they can see in Wellington**.
 
 ---
 
