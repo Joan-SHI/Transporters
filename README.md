@@ -1,6 +1,6 @@
-# NIGHTGUIDE
+# Transporters
 
-## Week 8-9 Large group project 
+# Public Transport App
 
 The focus of this app is to practice using the Full Stack we have learnt, (and new technology [react native]) in a large scale app.
 
