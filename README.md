@@ -10,7 +10,11 @@ This app was created solely for regional councils to keep track of their bus dri
 As this app progresses, it can be expanded to add other public transports such as trains, ferry and airplanes. 
 
 -------------------------------------------------------------------------------------------------------------
-<img src="assets/LogoMain.png" alt="Developer Theme" width="500" />
+<img src="assets/LogoMain.png" alt="Developer Theme" width="400" />
+<img src="assets/LogoFuture.png" alt="Developer Theme" width="400" />
+
+
+
 
 
 
