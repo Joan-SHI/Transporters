@@ -11,7 +11,7 @@ import Weather from './src/components/Weather'
 // import PlanetList from './src/components/PlanetList'
 // import PlanetDetails from './src/components/PlanetDetails'
 import WelcomeInstruction from './src/components/WelcomeInstruction'
-// import CameraExample from './src/components/CameraExample';
+import CameraExample from './src/components/CameraExample';
 // import PlanetCamera from './src/components/PlanetCamera'
 
 export default class App extends React.Component {
@@ -30,11 +30,11 @@ export default class App extends React.Component {
             component={WelcomeInstruction}
             title="Welcome"
           />
-          {/* <Scene
+          <Scene
             key="camera"
             component={CameraExample}
             title="Camera"
-          /> */}
+          />
           <Scene
             key="home"
             component={Home}

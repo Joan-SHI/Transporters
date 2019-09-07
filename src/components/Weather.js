@@ -18,7 +18,7 @@ export default class App extends React.Component {
 
   componentDidMount() {
     return fetch(
-      "http://api.openweathermap.org/data/2.5/weather?q=Wellington,NZ&appid=6077bc0c24cd3abfdf63f56070c1d010&units=metric"
+      "http://api.openweathermap.org/data/2.5/weather?q=Napier,NZ&appid=6077bc0c24cd3abfdf63f56070c1d010&units=metric"
     )
       .then(response => response.json())
       .then(responseJson => {
