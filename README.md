@@ -2,9 +2,13 @@
 
 # Public Transport App
 
-The focus of this app is to practice using the Full Stack we have learnt, (and new technology [react native]) in a large scale app.
+The purpose of this app is to make it easier for general public to plan their trip when using public transport. The idea behind this app is to influence people
+to take public transport, reduce air pollution, less environmental damage and reducing petrol usage. This app is directed for smaller cities such as Taupo, Gisborne
+Hawkes Bay, Palmerston North, Wairoa and other smaller regions. These smaller cities are lacking a service that provides clear information about the public transport 
+in their regions. This solution is aimed for students, working people, elderly and event-goers.
+This app was created solely for regional councils to keep track of their bus drivers, buses and public feedback.
+As this app progresses, it can be expanded to add other public transports such as trains, ferry and airplanes. 
 
-The idea of the app is to create a **"stargazing - astronomical"** style app for people to visit and check **WEATHER (with visibility)**, **LOOKOUT recommendations (x and y coordinates)**, **what constellations they can see in Wellington**.
 
 ---
 
@@ -24,24 +28,33 @@ The idea of the app is to create a **"stargazing - astronomical"** style app for
  ### User Stories
 
  #### MVP
-+ As a user I want to be able to .. Observe the weather and the visibility for the city/country I am in.
++ As a user I want to be able to .. track my bus in real time.
 
-+ As a user I want to be able to .. Find all of the best Lookout points to view stars and planets around Wellington, using cordinates and querying a Google Maps API.
++ As a user I want to be able to .. get ETA for public transport.
 
-+ As a user I want to be able to .. Learn more about certain planets and constellations and get some info on when they might be seen
++ As a user I want to be able to .. plan my trip.
+
++ As a user I want to be able to .. record and save my daily journey/commute.
+
++ As a user I want to be able to .. top-up my card through the app.
+
++ As a user I want to be able to .. give reviews on my experience of my journey/commute.
+
++ As a user I want to be able to .. retrieve information about my bus.
+
 
 ---
 
 
 #### Stretch
 
-+ As a user I want to be able to .. Observe which planets and constellations I can see from Wellington on a specific night
++ As a user I want to be able to .. retrieve information about ferry, train and airplanes.
 
-+ As a user I want to be able to .. Use augmented reality with the constellations to see image of them through camera
++ As a user I want to be able to .. sync my flight details in my calendar to this app.
 
-+ As a user I want to be able to .. Depending on time of day for user, show light or dark background
++ As a user I want to be able to .. show the prefered mode of public transportation to travel depending on where they're going.
 
-+ As a user I want to be able to .. Depending on time of day and weather for user, show different background in weather view
++ As a user I want to be able to .. depending on time of day and for user, show hourly weather update
 
  ----
 
@@ -74,54 +87,3 @@ The idea of the app is to create a **"stargazing - astronomical"** style app for
   | ## | ###  |
  
 ---
-
-
-
-
-## Heroku!!!
-
-### Creating your app
-
-Create your app with `heroku create [name]`
-
-You can check that this was successful by running `heroku apps` to view a list of your apps
-
-
-### Adding postgres
-
-Add postgresql (hobby dev) to your app at `https://dashboard.heroku.com/apps/[APP NAME HERE]/resources`
-
-Check that pg has been added by running `heroku addons` to ensure the postgresql db is on your app
-
-
-### Deploying!
-
-I have created several npm scripts that will be useful for deploying your app to heroku easily.
-
-To push your local master branch to your heroku app:
-```sh
-yarn h:deploy
-  - or -
-npm run h:deploy
-```
-
-Run heroku migrations:
-```sh
-yarn h:migrate
-  - or -
-npm run h:migrate
-```
-
-Run heroku seeds:
-```sh
-yarn h:seed
-  - or -
-npm run h:seed
-```
-
-If ever you need to rollback, you can also:
-```sh
-yarn h:rollback
-  - or -
-npm run h:rollback
-```
