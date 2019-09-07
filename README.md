@@ -59,26 +59,19 @@ As this app progresses, it can be expanded to add other public transports such a
   | components | purpose |
   | --- | --- |
   | Landing | View of opening page with logo |
-  | NightGuideLogo | Night guide logo svg |
+  | The Tranporter Logo | The Tranporter logo svg |
   | InstructionContainer | Holds the Menu and Welcome instructions |
   | WelcomeInstruction  | View with welcome message on first open of app |
   | MenuInstruction | View with menu instructions (use of app) on first open on app |
   | Home | View to contain initial page with nav bar buttons |
   | NavBar | View for navigation buttons |
-  | Weather  | View to see weather in your area for stargazing |
-  | ConstellationList | Shows a list of common constellations |
-  | ConstellationDetails | Shows more info on specific constellation |
-  | PlanetList | Shows list of planets in solar system |
-  | PlanetDetails  | Shows more info on specific planet |
-  | LookoutList | Shows specific lookouts in your area and on a map |
-  | LookoutDetails | Shows more details on the specific lookout |
+  | Weather  | View to see weather in your area |
+  | Bus Stops List | Shows the bus stops in your area and on a map |
+  | Bus Details | Shows more details on the specific bus and the waiting time |
 
   | name | purpose |
   | --- | --- |
   | Weather query API| Search for your local weather |
-  | hardcode Lookout Points API | Search for local Lookout Points |
-  | Hardcode constellations API | Search for constellations in your area |
-  | hardcode planet API  | Search for planets that you can see in your area |
   | ###  | #### |
   | ## | ###  |
  

@@ -11,14 +11,14 @@ export default class Home extends React.Component {
   render() {
     return (
       <ImageBackground
-        source={require('../../assets/bg.jpg')}
+        source={require('../../assets/LogoMain.png')}
         style={StyleSheet.absoluteFill}
       >
         <View style={styles.container}>
-          <StarMap />
+          {/* <StarMap />
           <View style={styles.cameracontainer}>
             <Camera style={{ alignItems: 'center' }} />
-          </View>
+          </View> */}
           <View style={styles.navcontainer}>
             <NavBar style={styles.navBar} />
           </View>
