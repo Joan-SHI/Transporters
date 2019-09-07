@@ -5,14 +5,14 @@ import Login from './src/components/Landing'
 import Home from './src/components/Home'
 import LookoutList from './src/components/LookoutList'
 import LookoutDetails from './src/components/LookoutDetails'
-import ConstellationList from './src/components/ConstellationList'
-import ConstellationDetails from './src/components/ConstellationDetails'
+// import ConstellationList from './src/components/ConstellationList'
+// import ConstellationDetails from './src/components/ConstellationDetails'
 import Weather from './src/components/Weather'
-import PlanetList from './src/components/PlanetList'
-import PlanetDetails from './src/components/PlanetDetails'
+// import PlanetList from './src/components/PlanetList'
+// import PlanetDetails from './src/components/PlanetDetails'
 import WelcomeInstruction from './src/components/WelcomeInstruction'
-import CameraExample from './src/components/CameraExample';
-import PlanetCamera from './src/components/PlanetCamera'
+// import CameraExample from './src/components/CameraExample';
+// import PlanetCamera from './src/components/PlanetCamera'
 
 export default class App extends React.Component {
   render() {
@@ -30,11 +30,11 @@ export default class App extends React.Component {
             component={WelcomeInstruction}
             title="Welcome"
           />
-          <Scene
+          {/* <Scene
             key="camera"
             component={CameraExample}
             title="Camera"
-          />
+          /> */}
           <Scene
             key="home"
             component={Home}
@@ -51,7 +51,7 @@ export default class App extends React.Component {
             component={LookoutDetails}
             title="LookoutDetails"
           />
-          <Scene
+          {/* <Scene
             key="stars"
             component={ConstellationList}
             title="Constellation"
@@ -60,8 +60,8 @@ export default class App extends React.Component {
             key="constellationdetails"
             component={ConstellationDetails}
             title="ConstellationDetails"
-          />
-          <Scene
+          /> */}
+          {/* <Scene
             key="planet"
             component={PlanetList}
             title="Planet"
@@ -70,12 +70,12 @@ export default class App extends React.Component {
             key="planetdetails"
             component={PlanetDetails}
             title="PlanetDetails"
-          />
-          <Scene
+          /> */}
+          {/* <Scene
             key="planetcamera"
             component={PlanetCamera}
             title="Planet Camera"
-          />
+          /> */}
           <Scene
             key="weather"
             component={Weather}
