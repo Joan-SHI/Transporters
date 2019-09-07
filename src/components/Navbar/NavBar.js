@@ -2,8 +2,8 @@ import React from 'react'
 import { View, StyleSheet } from 'react-native'
 
 import Home from './Home'
-import Stars from './Stars'
-import Planet from './Planet';
+// import Stars from './Stars'
+// import Planet from './Planet';
 import Lookout from './Lookout';
 import Weather from './Weather'
 
@@ -16,12 +16,12 @@ const NavBar = () => {
       <View style={styles.naveach}>
         <Lookout />
       </View>
-      <View style={styles.naveach}>
+      {/* <View style={styles.naveach}>
         <Planet />
-      </View>
-      <View style={styles.naveach}>
+      </View> */}
+      {/* <View style={styles.naveach}>
         <Stars />
-      </View>
+      </View> */}
       <View style={styles.naveach}>
         <Home />
       </View>

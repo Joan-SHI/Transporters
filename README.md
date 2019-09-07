@@ -14,15 +14,11 @@ As this app progresses, it can be expanded to add other public transports such a
 
 ### Technology
 + React Native
-+ Redux
 + API's
 + Using Sensors in React Native
-+ Database Knex
-+ Express
 + JWT Auth (Local)
 + SVG
 + Postman
-+ React
  
  ---
  ### User Stories
@@ -58,7 +54,7 @@ As this app progresses, it can be expanded to add other public transports such a
 
  ----
 
- ## Views (Client Side)
+ ## Views
 
   | components | purpose |
   | --- | --- |
