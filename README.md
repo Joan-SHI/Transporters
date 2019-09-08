@@ -74,6 +74,17 @@ As this app progresses, it can be expanded to add other public transports such a
 
 + As a user I want to be able to .. depending on time of day and for user, show hourly weather update
 
+### Team DataSets
+
+## API - Real time bus tracker (Auckland)
+request url 
+https://api.at.govt.nz/v2/gtfs/routes
+
+HTTP request
+GET https://api.at.govt.nz/v2/gtfs/routes HTTP/1.1
+Host: api.at.govt.nz
+Ocp-Apim-Subscription-Key:top secret
+
  ----
 
  ## Views
@@ -93,8 +104,8 @@ As this app progresses, it can be expanded to add other public transports such a
 
   | name | purpose |
   | --- | --- |
+  | General Transit Feed (GTFS)| List of the transit agencies that provide the data in this feed |
   | Weather query API| Search for your local weather |
-  | ###  | #### |
   | ## | ###  |
  
 ---
