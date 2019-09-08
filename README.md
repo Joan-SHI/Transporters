@@ -120,3 +120,6 @@ api.openweathermap.org/data/2.5/weather?q={city name},{country code}
   | ## | ###  |
  
 ---
+#### Comment
+
+We started off the project thinking of developing an IOS app using React Native but due to some obsticales and limited time we ended up using android environment using Java to create this app.
