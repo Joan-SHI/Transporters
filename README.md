@@ -2,7 +2,6 @@
 
 # Public Transport App 
 
-# The Link to GovHack
 https://hackerspace.govhack.org/projects/public_transport_app
 
 The purpose of this app is to make it easier for general public to plan their trip when using public transport. The idea behind this app is to influence people
@@ -87,6 +86,11 @@ HTTP request
 GET https://api.at.govt.nz/v2/gtfs/routes HTTP/1.1
 Host: api.at.govt.nz
 Ocp-Apim-Subscription-Key:top secret
+
+## API -Real time weather data (e.g.Napier)
+
+API call
+api.openweathermap.org/data/2.5/weather?q={city name},{country code}
 
  ----
 
