@@ -9,20 +9,15 @@ in their regions. This solution is aimed for students, working people, elderly a
 This app was created solely for regional councils to keep track of their bus drivers, buses and public feedback.
 As this app progresses, it can be expanded to add other public transports such as trains, ferry and airplanes. 
 
--------------------------------------------------------------------------------------------------------------
 
 # Logo
 
 <img src="assets/LogoMain.png" alt="Developer Theme" width="400" />
 <img src="assets/LogoFuture.png" alt="Developer Theme" width="400" />
 
--------------------------------------------------------------------------------------------------------------
-
-# Mockup
 
 <img src="assets/mockup_1.JPG" alt="Developer Theme" width="400" />
 
--------------------------------------------------------------------------------------------------------------
 
 # Team Photo
 
