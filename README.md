@@ -12,7 +12,7 @@ As this app progresses, it can be expanded to add other public transports such a
 -------------------------------------------------------------------------------------------------------------
 <img src="assets/LogoMain.png" alt="Developer Theme" width="400" />
 <img src="assets/LogoFuture.png" alt="Developer Theme" width="400" />
-<img src="assets/TeamPhoto.jpg" alt="Developer Theme" width="100%" />
+<img src="assets/TeamPhoto.jpg" alt="Developer Theme" width="800" />
 
 
 
