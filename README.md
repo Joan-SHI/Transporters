@@ -15,8 +15,19 @@ As this app progresses, it can be expanded to add other public transports such a
 <img src="assets/LogoMain.png" alt="Developer Theme" width="400" />
 <img src="assets/LogoFuture.png" alt="Developer Theme" width="400" />
 
+# Mockup
 
 <img src="assets/mockup_1.JPG" alt="Developer Theme" width="400" />
+<img src="assets/2.JPG" alt="Developer Theme" width="400" />
+<img src="assets/3.JPG" alt="Developer Theme" width="400" />
+<img src="assets/4.JPG" alt="Developer Theme" width="400" />
+<img src="assets/5.JPG" alt="Developer Theme" width="400" />
+<img src="assets/6.JPG" alt="Developer Theme" width="400" />
+<img src="assets/7.JPG" alt="Developer Theme" width="400" />
+<img src="assets/8.JPG" alt="Developer Theme" width="400" />
+<img src="assets/9.JPG" alt="Developer Theme" width="400" />
+<img src="assets/10.JPG" alt="Developer Theme" width="400" />
+<img src="assets/11.JPG" alt="Developer Theme" width="400" />
 
 
 # Team Photo
