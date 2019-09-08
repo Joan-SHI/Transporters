@@ -23,13 +23,6 @@ As this app progresses, it can be expanded to add other public transports such a
 
 <img src="assets/TeamPhoto.jpg" alt="Developer Theme" width="800" height="1200" />
 
-
-
-
-
-
----
-
 ### Technology
 + React Native
 + API's
