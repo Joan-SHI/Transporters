@@ -17,7 +17,7 @@ As this app progresses, it can be expanded to add other public transports such a
 
 # Mockup
 
-<img src="assets/mockup_1.JPG" alt="Developer Theme" width="50%" />
+<img src="assets/mockup_1.JPG" alt="Developer Theme" width="400" />
 <img src="assets/2.JPG" alt="Developer Theme" width="400" />
 <img src="assets/3.JPG" alt="Developer Theme" width="400" />
 <img src="assets/4.JPG" alt="Developer Theme" width="400" />
